@@ -1,0 +1,8 @@
+$schema: https://vecorel.org/sdl/v0.2.0/schema.json
+required:
+  - template:field1
+properties:
+  template:field1:
+    type: uint8
+  template:field2:
+    type: string
